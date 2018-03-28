@@ -1,0 +1,5 @@
+impl\BooksTable.class
+impl\DatabaseService.class
+main\Application$RestApi.class
+main\Application.class
+impl\BookRepository.class

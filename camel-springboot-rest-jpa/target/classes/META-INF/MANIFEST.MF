@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Camel Spring Boot Rest JPA
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: srchopra
+Implementation-Vendor-Id: camel.springboot.rest.jpa.impl
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/camel-spring
+ boot-rest-jpa/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
